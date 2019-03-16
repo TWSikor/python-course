@@ -1,2 +1,0 @@
-#6 Test your code. Check various edge cases. In other words: does your program (1, 3, 4 & 5)work for all input values?
-# In case of task 4  do not forget to round to different amount of decimals and see if it still works.(3p)
